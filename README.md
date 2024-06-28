@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://adarshleet.github.io/personal/](https://adarshleet.github.io/personal/)
+- 👨‍💻 All of my projects are available at [https://adarshraveendran.in](https://adarshraveendran.in)
 
 - 📫 How to reach me **adarshravi01@gmail.com**
 
